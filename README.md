@@ -1,3 +1,3 @@
-# .php_cs
+# .php-cs-fixer.php
 
-php-cs-fixer fix . --config=/path/.../.php_cs
+php-cs-fixer fix . --config=/path/.../.php-cs-fixer.php
